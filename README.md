@@ -1,0 +1,1 @@
+# mg-shopify-to-google
